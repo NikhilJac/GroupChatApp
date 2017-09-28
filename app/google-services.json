@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "140202934575",
+    "firebase_url": "https://hickapp-643b2.firebaseio.com",
+    "project_id": "hickapp-643b2",
+    "storage_bucket": "hickapp-643b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140202934575:android:6ef957e29be122fb",
+        "android_client_info": {
+          "package_name": "com.nikhiljacobjose.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140202934575-5ou2li5shu14r35duq0g0783pp038lih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8UkULHiLnOuRpoh_ht3Mo6XfEC6CZ1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
