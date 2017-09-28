@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\9a8d82b2768416133632563a4b71cbd26acae7da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ae29495e233f48b3fc735e42c138c0a5454e0a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_79ec6037ee3ee782480069fae8999a397857b153\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\3ec418b424b82d31db18d7ec3fb8eb10a6f614fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c61ae754f3aa445a07306cf5397cebc98ddb61d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\97c96c54fdf3895f12bec79486f75892186d424e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_166ddd3190a4add29bc0956e46e5c066e354bf77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\706e012981575e744d441524259cb7372196468d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aba7dba918ada5b08ae048950e4b76f9fdc093d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\16bd7e29430cba5afb854cc5a9bed7d93a39cd13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_693bd73108483520be9049e5b79906e35b722597\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\d11b77ae050f40ea298a2531c38ea3af90e89085\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5eaf34c7a674dd80551d819e00ea35702594c769\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\c7002103798d9bad384f3d0538f0c8453a7cc459\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b62a0aed48d0404226ad3c0f5edd6b92fb748413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\8b684675e3df08a2df2d406f155a2a5b0b8f0035\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5aa329d14b5f2a957bb69eaca69291eac15ff0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\1256f4c5d08ab024d190bba28cbdad36463d9f5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ef65517693c937f1e43d067ff953fbc5eff9d36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_eb599e54d60cbb8f4544837b85616eba0e673a51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\ea46ebdc67c7cc5a77abec1a3cb2696d0fbcddf6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e13cde32fe8fbd02b3320db316258587bf787b1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\884a8e53caf8182ffa47f4cc1113a9b154abc2ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e3dd9eef43221179f1be030e71470e88a06249e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\0b686aa3bc01f1d160044d5d9d4de3b9edf4a4db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_763b901d84bf4f637aea40038bf202862ac43399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\98b257fbc2c12a7b4561b046d4905d1bd1680499\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ef621196f90a46f54972b0733b0a252866e118c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\9a99a2ff9edc313b5cbf42a0130ccbfdb3575cf5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5d91d1a5abde2d8d49c19c31201c236b2365314\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\201fc258f38a5f6fd40d5b8cea63da9cda548b9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2ad4b1247b1e81a272c03de409bdac292945c86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\f107e8952dffe50d96c3367c6054b93a817faf0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09c1ce1fee4174dcb113b37eef7604fbe777f47a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\ab261449b4364c77db390e433deba4b04fe317cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65d909978dff486ce1d216fdc6d8f8518af6642e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\66243c2d39eb4ea4618dc9d6132f998bb5763722\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d54c8b34c280af3201914810a62716f72e69933c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65bb00dfc178aeba0282f682524aebd7982893cd">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0f4904e249de79f4ce4f51a26916f7f27e92dfa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\8acf14acb699a88d6334683d520752030c8b4c15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_468dc3a39ffe1eedb50e359537acb1cb4c6e97c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\fa5f35f3eeb9100e93ac1ab1410a74a5d8cae71d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_468847ba7dcb610831749f31ce1a336aa3bac8a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\45d1899eeeff1aed35354c406442757ee0748a66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6e56216f02c9d0f7c512b4b19f1467f06624de2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\0cb57626b4215dabcc97a103cfc3cd604642ae42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a5d194eea21410ba2d48a12ec51e5fa1a5ec8d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\1f95278862b86db42fda94d5500e2867eb8e0b5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_601b860bf5d01b0d8ee7265cbbc0cc40a2f9227a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.android\build-cache\fcda77d117d936c1d96e6ba94010161e3f32c01a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\FNU\Documents\MIS\Job Search\Android Course\FlashChat-Firebase-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8684859eb4b280efee2d657ff56c45eb3ea7d405\classes.dex" />
+    </item>
+
+</items>
